@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Which sentence is grammatically correct?",
+        "answers": [
+            { "text": "She don't like apples.", "correct": false },
+            { "text": "She doesn't like apples.", "correct": true },
+            { "text": "She doesn't likes apples.", "correct": false },
+            { "text": "She don't likes apples.", "correct": false }
+        ]
+    },
+    {
+        "question": "Which word is a synonym for 'happy'?",
+        "answers": [
+            { "text": "Sad", "correct": false },
+            { "text": "Angry", "correct": false },
+            { "text": "Joyful", "correct": true },
+            { "text": "Tired", "correct": false }
+        ]
+    },
+    {
+        "question": "Choose the correct form of the verb: \"He ___ to the store every day.\"",
+        "answers": [
+            { "text": "go", "correct": false },
+            { "text": "goes", "correct": true },
+            { "text": "going", "correct": false },
+            { "text": "gone", "correct": false }
+        ]
+    },
+    {
+        "question": "Which of the following is a past tense verb?",
+        "answers": [
+            { "text": "Run", "correct": false },
+            { "text": "Running", "correct": false },
+            { "text": "Ran", "correct": true },
+            { "text": "Runs", "correct": false }
+        ]
+    },
+    {
+        "question": "Choose the sentence with the correct punctuation.",
+        "answers": [
+            { "text": "I like dogs cats and birds.", "correct": false },
+            { "text": "I like dogs, cats and birds.", "correct": true },
+            { "text": "I like, dogs, cats, and birds.", "correct": false },
+            { "text": "I like dogs, cats, and birds.", "correct": true }
+        ]
+    }
+]
